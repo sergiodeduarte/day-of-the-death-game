@@ -14,7 +14,7 @@ Calavera Runner is a browser-based endless runner where players control a sugar 
 
 ## Specification Documents
 
-This repository contains complete technical specifications following the Kiro spec-driven development methodology:
+This repository contains complete technical specifications following spec-driven development methodology:
 
 ### 📋 [Requirements](specs/requirements.md)
 Detailed user stories and acceptance criteria using EARS (Easy Approach to Requirements Syntax) format:
